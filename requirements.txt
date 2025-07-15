@@ -1,0 +1,7 @@
+numpy
+pygmtools
+networkx
+loguru
+tqdm
+scipy
+psutil

@@ -1,0 +1,7 @@
+*.proto
+*.txt
+*.pyc
+__pycache__
+.venv
+.vscode
+.trae
